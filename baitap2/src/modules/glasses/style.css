@@ -1,0 +1,31 @@
+.glasses{
+    background: url(../../../public/glassesImage/background.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.avatar{
+    height: 500px;
+    background:url(../../../public/glassesImage/model.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.imagesGlass{
+    margin-top: 70px;
+    width: 250px;
+    height: 100px;
+}
+.items{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: aliceblue;
+}
+.items-box{
+    width: 157px;
+}
+.items-box img{
+    width: 150px;
+    height: 80px;
+    cursor: pointer;
+}
